@@ -8,6 +8,9 @@ Here we have jupitor notebooks (.ipynb) for each interpolation technique. Just s
 
 ## Special instructions or details on how to use the code - 
 Nearest neighbour.ipynb - This file contains all the experiments related to nearest neighbour interpolation.
+
 Bicubic_Interpolation.ipynb -  This file contains all the experiments related to Bicubic interpolation.
+
 Bilinear_Interpolation.ipynb - This file contains all the experiments related to Bilinear interpolation.
+
 Raw Data - This folder contains three original images which we are using in this project.  
