@@ -8,8 +8,8 @@ evaluation of three distinct interpolation techniques—Nearest neighbor, Biline
 across two key scenarios: clean/noise free images with varying levels of detail (low, medium, 
 and high) and noisy input images. The project endeavors to evaluate the impact of noise on 
 interpolation outcomes, investigating the suitability of each technique for noisy input images.
-Also, the project seeks to analyze how the noise removal techniques enhance the quality of 
-subsequent interpolation results in case of noisy input images. Then, a comparative analysis will 
+Also, the project seeks to analyze how the noise removal techniques (Mean, Geometric 
+mean, Harmonic mean, Median and Gaussian) enhance the quality of subsequent interpolation results in case of noisy input images. Then, a comparative analysis will 
 be conducted to ascertain the performance of interpolation techniques for noisy and noise free 
 conditions. Through these objectives, the project aims to provide insights into the strengths and 
 limitations of interpolation methods. The main workflow of the project is shown below Fig.1o
