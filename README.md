@@ -12,7 +12,9 @@ Also, the project seeks to analyze how the noise removal techniques enhance the 
 subsequent interpolation results in case of noisy input images. Then, a comparative analysis will 
 be conducted to ascertain the performance of interpolation techniques for noisy and noise free 
 conditions. Through these objectives, the project aims to provide insights into the strengths and 
-limitations of interpolation methods.
+limitations of interpolation methods. The main workflow of the project is shown below Fig.1o
+
+![image](https://github.com/amnrepo/DIP/assets/151793630/dd2d742c-1d37-416a-8d83-9c7d19df7355)
   
 ## How to run the code (installation, dependencies, etc.) - 
 Here we have jupitor notebooks (.ipynb) for each interpolation technique. Just simply run the code in "Microsoft vscode" or any other .ipynb platform of your choice.
